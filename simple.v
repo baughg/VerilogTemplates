@@ -1,8 +1,8 @@
 module simple(clk,a,b,c);
-input logic clk;
-input logic a;
-input logic b;
-output logic c;
+input clk;
+input a;
+input b;
+output c;
 
 logic d;
 
